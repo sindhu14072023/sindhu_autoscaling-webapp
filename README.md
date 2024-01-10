@@ -44,23 +44,3 @@ Optimize your AMIs to ensure fast instance provisioning.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![image](https://github.com/sindhu14072023/sindhu_autoscaling-webapp/assets/153921370/73f6c452-012b-43f2-861b-86cdcd26a867)
